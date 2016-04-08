@@ -39,7 +39,7 @@
         "uglify-js": "~2.6.2"
     },
     "devDependencies": {
-        "hexo": "^3.2.0",
+        "hexo": "^3.1.1",
         "hexo-front-matter": "^0.2.2",
         "hexo-generator-archive": "^0.1.4",
         "hexo-generator-category": "^0.1.3",
