@@ -27,7 +27,7 @@
   "dependencies": {
     "bluebird": "^3.4.0",
     "clean-css": "^3.4.15",
-    "html-minifier": "^3.2.3",
+    "html-minifier": "^3.5.8",
     "imagemin": "^5.2.1",
     "imagemin-gifsicle": "^5.1.0",
     "imagemin-jpegtran": "^5.0.2",
