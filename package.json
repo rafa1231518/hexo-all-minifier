@@ -26,7 +26,7 @@
   "license": "MIT",
   "dependencies": {
     "bluebird": "^3.4.0",
-    "clean-css": "^3.4.15",
+    "clean-css": "^4.1.10",
     "html-minifier": "^3.2.3",
     "imagemin": "^5.2.1",
     "imagemin-gifsicle": "^5.1.0",
