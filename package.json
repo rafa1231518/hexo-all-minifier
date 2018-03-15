@@ -33,7 +33,7 @@
     "imagemin-jpegtran": "^5.0.2",
     "imagemin-mozjpeg": "^7.0.0",
     "imagemin-optipng": "^5.1.0",
-    "imagemin-pngquant": "^5.0.0",
+    "imagemin-pngquant": "^5.1.0",
     "imagemin-svgo": "^5.1.0",
     "minimatch": "^3.0.0",
     "object-assign": "^4.1.0",
